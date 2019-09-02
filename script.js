@@ -21,7 +21,8 @@
     'corrosion',
     'infection',
     'implode',
-    'throw'
+    'throw',
+    'transform'
   ]
   const objectlist = [
     'ball',
@@ -95,6 +96,9 @@
     'rainbow',
     'shards',
     'sand',
+    'glue',
+    'ants',
+    'flies',
   ]
   
 function rollDice() {
